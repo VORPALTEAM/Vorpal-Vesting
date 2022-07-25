@@ -1,0 +1,19 @@
+{
+  "name": "vorpal-vesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "hardhat": "^2.10.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2"
+  }
+}
